@@ -1,3 +1,14 @@
+/*
+    File Name: main.cpp
+    Description: This function checks the characters in a string
+                 and returns the number of times the character 'a',
+                 lower of upper case shows on the string.
+    Author: Byron Perez
+    email: byronp1779@student.vvc.edu
+    Date: 0ct. 16, 2018
+*/
+
+
 #include<iostream>
 #include<string>
 
@@ -17,6 +28,12 @@ int main()
 
     return 0;
 }
+
+
+/**
+    This function checks the number of times the letter 'a' shows 
+    in a string.
+*/
 
 int total(string s)
 {
